@@ -3,7 +3,7 @@
 
 
 - 🌱 I’m currently learning Python | JavaScript | Big Data 
-- 📫 How to reach me: 0lucasa2000@hotmail.com.br
+- 📫 How to reach me: antoniolucas.merencio@gmail.com
 - ⚡ Fun fact: My name is Lucas
 
 <div align="left">
