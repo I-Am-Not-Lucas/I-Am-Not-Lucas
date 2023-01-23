@@ -2,7 +2,7 @@
 ##
 
 
-- 🌱 I’m currently learning Python | JavaScript | Big Data 
+- 🌱 I’m currently learning Python | Mql5 | HTML/CSS | Machine Learning
 - 📫 How to reach me: antoniolucas.merencio@gmail.com
 - ⚡ Fun fact: My name is Lucas
 
