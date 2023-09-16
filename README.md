@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning Python | MySQL | Data Science | Machine Learning
 - 📫 How to reach me: antoniolucas.merencio@gmail.com
-- ⚡ Fun fact: My name is Lucas
 
 <div align="left">
   <a href="https://github.com/I-Am-Not-Lucas">
